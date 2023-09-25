@@ -1,9 +1,10 @@
-# Laboratory Activity 3
+# CC17 - 3E Activities
 ## Mobile Application Design and Development
 
-This activity aims to measure what I learned during the following topic/s:
-- ✨Kotlin Basics✨
-## The Activities
+These activities aim to measure what I learned during the following topic/s:
 
-- Happy Birthday Greeting and Banner
-- Birthday Cake
+## The Activities
+### LabAct3
+- ✨Kotlin Basics✨
+  - Happy Birthday Greeting and Banner
+  - Birthday Cake
