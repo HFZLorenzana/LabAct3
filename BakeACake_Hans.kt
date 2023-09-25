@@ -8,7 +8,7 @@ fun main() {
 
 fun printCakeCandles(age: Int) {
     repeat(age) {
-        print("`")
+        print(",")
     }
     println()
     repeat(age) {
@@ -25,9 +25,9 @@ fun printCakeTop(age: Int) {
 }
 
 fun printCakeBottom(age: Int, layers: Int) {
-	repeat(layers) {
+    repeat(layers) {
         repeat(age) {
-        	print("H")
+        	print("@")
     	}
     	println()
     }
