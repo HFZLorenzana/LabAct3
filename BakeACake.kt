@@ -8,7 +8,7 @@ fun main() {
 
 fun printCakeCandles(age: Int) {
     repeat(age) {
-        print(",")
+        print("'")
     }
     println()
     repeat(age) {
